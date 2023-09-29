@@ -1,0 +1,438 @@
+459991
+'NoneType' object has no attribute 'find_all'
+266188
+'NoneType' object has no attribute 'find_all'
+473793
+'NoneType' object has no attribute 'find_all'
+473848
+'NoneType' object has no attribute 'find_all'
+473840
+'NoneType' object has no attribute 'find_all'
+119214
+'NoneType' object has no attribute 'find_all'
+122301
+'NoneType' object has no attribute 'find_all'
+354411
+'NoneType' object has no attribute 'find_all'
+473849
+'NoneType' object has no attribute 'find_all'
+473851
+'NoneType' object has no attribute 'find_all'
+473825
+'NoneType' object has no attribute 'find_all'
+473846
+'NoneType' object has no attribute 'find_all'
+33406
+'NoneType' object has no attribute 'find_all'
+473850
+'NoneType' object has no attribute 'find_all'
+220579
+'NoneType' object has no attribute 'find_all'
+468359
+'NoneType' object has no attribute 'find_all'
+473852
+'NoneType' object has no attribute 'find_all'
+417729
+'NoneType' object has no attribute 'find_all'
+11125
+'NoneType' object has no attribute 'find_all'
+12077
+'NoneType' object has no attribute 'find_all'
+427131
+'NoneType' object has no attribute 'find_all'
+12061
+'NoneType' object has no attribute 'find_all'
+205798
+'NoneType' object has no attribute 'find_all'
+418503
+'NoneType' object has no attribute 'find_all'
+12060
+'NoneType' object has no attribute 'find_all'
+11639
+'NoneType' object has no attribute 'find_all'
+435904
+'NoneType' object has no attribute 'find_all'
+11816
+'NoneType' object has no attribute 'find_all'
+407457
+'NoneType' object has no attribute 'find_all'
+473838
+'NoneType' object has no attribute 'find_all'
+473854
+'NoneType' object has no attribute 'find_all'
+113170
+'NoneType' object has no attribute 'find_all'
+473794
+'NoneType' object has no attribute 'find_all'
+473844
+'NoneType' object has no attribute 'find_all'
+473809
+'NoneType' object has no attribute 'find_all'
+473792
+'NoneType' object has no attribute 'find_all'
+470004
+'NoneType' object has no attribute 'find_all'
+354450
+'NoneType' object has no attribute 'find_all'
+113320
+'NoneType' object has no attribute 'find_all'
+32715
+'NoneType' object has no attribute 'find_all'
+123492
+'NoneType' object has no attribute 'find_all'
+11032
+'NoneType' object has no attribute 'find_all'
+473860
+'NoneType' object has no attribute 'find_all'
+473857
+'NoneType' object has no attribute 'find_all'
+30576
+'NoneType' object has no attribute 'find_all'
+473829
+'NoneType' object has no attribute 'find_all'
+473858
+'NoneType' object has no attribute 'find_all'
+354414
+'NoneType' object has no attribute 'find_all'
+120411
+'NoneType' object has no attribute 'find_all'
+473801
+'NoneType' object has no attribute 'find_all'
+12120
+'NoneType' object has no attribute 'find_all'
+473827
+'NoneType' object has no attribute 'find_all'
+398393
+'NoneType' object has no attribute 'find_all'
+301943
+'NoneType' object has no attribute 'find_all'
+32717
+'NoneType' object has no attribute 'find_all'
+473861
+'NoneType' object has no attribute 'find_all'
+202848
+'NoneType' object has no attribute 'find_all'
+473831
+'NoneType' object has no attribute 'find_all'
+473796
+'NoneType' object has no attribute 'find_all'
+473862
+'NoneType' object has no attribute 'find_all'
+136229
+'NoneType' object has no attribute 'find_all'
+473863
+'NoneType' object has no attribute 'find_all'
+12058
+'NoneType' object has no attribute 'find_all'
+292706
+'NoneType' object has no attribute 'find_all'
+473845
+'NoneType' object has no attribute 'find_all'
+473834
+'NoneType' object has no attribute 'find_all'
+195145
+'NoneType' object has no attribute 'find_all'
+304693
+'NoneType' object has no attribute 'find_all'
+473803
+'NoneType' object has no attribute 'find_all'
+32716
+'NoneType' object has no attribute 'find_all'
+205881
+'NoneType' object has no attribute 'find_all'
+244340
+'NoneType' object has no attribute 'find_all'
+473828
+'NoneType' object has no attribute 'find_all'
+473791
+'NoneType' object has no attribute 'find_all'
+12304
+'NoneType' object has no attribute 'find_all'
+473819
+'NoneType' object has no attribute 'find_all'
+234824
+'NoneType' object has no attribute 'find_all'
+209892
+'NoneType' object has no attribute 'find_all'
+370988
+'NoneType' object has no attribute 'find_all'
+12546
+'NoneType' object has no attribute 'find_all'
+454584
+'NoneType' object has no attribute 'find_all'
+473864
+'NoneType' object has no attribute 'find_all'
+473818
+'NoneType' object has no attribute 'find_all'
+445133
+'NoneType' object has no attribute 'find_all'
+457918
+'NoneType' object has no attribute 'find_all'
+126475
+'NoneType' object has no attribute 'find_all'
+473856
+'NoneType' object has no attribute 'find_all'
+473800
+'NoneType' object has no attribute 'find_all'
+473866
+'NoneType' object has no attribute 'find_all'
+473804
+'NoneType' object has no attribute 'find_all'
+473859
+'NoneType' object has no attribute 'find_all'
+473865
+'NoneType' object has no attribute 'find_all'
+473842
+'NoneType' object has no attribute 'find_all'
+473832
+'NoneType' object has no attribute 'find_all'
+473868
+'NoneType' object has no attribute 'find_all'
+473830
+'NoneType' object has no attribute 'find_all'
+473839
+'NoneType' object has no attribute 'find_all'
+473871
+'NoneType' object has no attribute 'find_all'
+473872
+'NoneType' object has no attribute 'find_all'
+473870
+'NoneType' object has no attribute 'find_all'
+473797
+'NoneType' object has no attribute 'find_all'
+473824
+'NoneType' object has no attribute 'find_all'
+301446
+'NoneType' object has no attribute 'find_all'
+473812
+'NoneType' object has no attribute 'find_all'
+11851
+'NoneType' object has no attribute 'find_all'
+12134
+'NoneType' object has no attribute 'find_all'
+244418
+'NoneType' object has no attribute 'find_all'
+473805
+'NoneType' object has no attribute 'find_all'
+284847
+'NoneType' object has no attribute 'find_all'
+153323
+'NoneType' object has no attribute 'find_all'
+11640
+'NoneType' object has no attribute 'find_all'
+473836
+'NoneType' object has no attribute 'find_all'
+240146
+'NoneType' object has no attribute 'find_all'
+205880
+'NoneType' object has no attribute 'find_all'
+473847
+'NoneType' object has no attribute 'find_all'
+473874
+'NoneType' object has no attribute 'find_all'
+473867
+'NoneType' object has no attribute 'find_all'
+473875
+'NoneType' object has no attribute 'find_all'
+473798
+'NoneType' object has no attribute 'find_all'
+473876
+'NoneType' object has no attribute 'find_all'
+473855
+'NoneType' object has no attribute 'find_all'
+222450
+'NoneType' object has no attribute 'find_all'
+473873
+'NoneType' object has no attribute 'find_all'
+473835
+'NoneType' object has no attribute 'find_all'
+11124
+'NoneType' object has no attribute 'find_all'
+450671
+'NoneType' object has no attribute 'find_all'
+445137
+'NoneType' object has no attribute 'find_all'
+268003
+'NoneType' object has no attribute 'find_all'
+285013
+'NoneType' object has no attribute 'find_all'
+11700
+'NoneType' object has no attribute 'find_all'
+410044
+'NoneType' object has no attribute 'find_all'
+436423
+'NoneType' object has no attribute 'find_all'
+12317
+'NoneType' object has no attribute 'find_all'
+473877
+'NoneType' object has no attribute 'find_all'
+473813
+'NoneType' object has no attribute 'find_all'
+473806
+'NoneType' object has no attribute 'find_all'
+473807
+'NoneType' object has no attribute 'find_all'
+473810
+'NoneType' object has no attribute 'find_all'
+113174
+'NoneType' object has no attribute 'find_all'
+33408
+'NoneType' object has no attribute 'find_all'
+220015
+'NoneType' object has no attribute 'find_all'
+31242
+'NoneType' object has no attribute 'find_all'
+473820
+'NoneType' object has no attribute 'find_all'
+156745
+'NoneType' object has no attribute 'find_all'
+473815
+'NoneType' object has no attribute 'find_all'
+113177
+'NoneType' object has no attribute 'find_all'
+33151
+'NoneType' object has no attribute 'find_all'
+100043
+'NoneType' object has no attribute 'find_all'
+246759
+'NoneType' object has no attribute 'find_all'
+473817
+'NoneType' object has no attribute 'find_all'
+473837
+'NoneType' object has no attribute 'find_all'
+473843
+'NoneType' object has no attribute 'find_all'
+450527
+'NoneType' object has no attribute 'find_all'
+432178
+'NoneType' object has no attribute 'find_all'
+355676
+'NoneType' object has no attribute 'find_all'
+113350
+'NoneType' object has no attribute 'find_all'
+473878
+'NoneType' object has no attribute 'find_all'
+359013
+'NoneType' object has no attribute 'find_all'
+473799
+'NoneType' object has no attribute 'find_all'
+429430
+'NoneType' object has no attribute 'find_all'
+473822
+'NoneType' object has no attribute 'find_all'
+445861
+'NoneType' object has no attribute 'find_all'
+305433
+'NoneType' object has no attribute 'find_all'
+294038
+'NoneType' object has no attribute 'find_all'
+426554
+'NoneType' object has no attribute 'find_all'
+473841
+'NoneType' object has no attribute 'find_all'
+32837
+'NoneType' object has no attribute 'find_all'
+435889
+'NoneType' object has no attribute 'find_all'
+473826
+'NoneType' object has no attribute 'find_all'
+12316
+'NoneType' object has no attribute 'find_all'
+468558
+'NoneType' object has no attribute 'find_all'
+33096
+'NoneType' object has no attribute 'find_all'
+205398
+'NoneType' object has no attribute 'find_all'
+473811
+'NoneType' object has no attribute 'find_all'
+473802
+'NoneType' object has no attribute 'find_all'
+473823
+'NoneType' object has no attribute 'find_all'
+11996
+'NoneType' object has no attribute 'find_all'
+473821
+'NoneType' object has no attribute 'find_all'
+473880
+'NoneType' object has no attribute 'find_all'
+194289
+'NoneType' object has no attribute 'find_all'
+473869
+'NoneType' object has no attribute 'find_all'
+11486
+'NoneType' object has no attribute 'find_all'
+11416
+'NoneType' object has no attribute 'find_all'
+445132
+'NoneType' object has no attribute 'find_all'
+238010
+'NoneType' object has no attribute 'find_all'
+410075
+'NoneType' object has no attribute 'find_all'
+12531
+'NoneType' object has no attribute 'find_all'
+113179
+'NoneType' object has no attribute 'find_all'
+198135
+'NoneType' object has no attribute 'find_all'
+219931
+'NoneType' object has no attribute 'find_all'
+473808
+'NoneType' object has no attribute 'find_all'
+354429
+'NoneType' object has no attribute 'find_all'
+295782
+'NoneType' object has no attribute 'find_all'
+220019
+'NoneType' object has no attribute 'find_all'
+473795
+'NoneType' object has no attribute 'find_all'
+473853
+'NoneType' object has no attribute 'find_all'
+473833
+'NoneType' object has no attribute 'find_all'
+12015
+'NoneType' object has no attribute 'find_all'
+219718
+'NoneType' object has no attribute 'find_all'
+248647
+'NoneType' object has no attribute 'find_all'
+313596
+'NoneType' object has no attribute 'find_all'
+473816
+'NoneType' object has no attribute 'find_all'
+473879
+'NoneType' object has no attribute 'find_all'
+219929
+'NoneType' object has no attribute 'find_all'
+437047
+'NoneType' object has no attribute 'find_all'
+33114
+'NoneType' object has no attribute 'find_all'
+11715
+'NoneType' object has no attribute 'find_all'
+244050
+'NoneType' object has no attribute 'find_all'
+32019
+'NoneType' object has no attribute 'find_all'
+11730
+'NoneType' object has no attribute 'find_all'
+119707
+'NoneType' object has no attribute 'find_all'
+410097
+'NoneType' object has no attribute 'find_all'
+219717
+'NoneType' object has no attribute 'find_all'
+473814
+'NoneType' object has no attribute 'find_all'
+435903
+'NoneType' object has no attribute 'find_all'
+32012
+'NoneType' object has no attribute 'find_all'
+11698
+'NoneType' object has no attribute 'find_all'
+469740
+'NoneType' object has no attribute 'find_all'
+11998
+'NoneType' object has no attribute 'find_all'

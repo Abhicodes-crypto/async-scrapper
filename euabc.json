@@ -1,0 +1,57 @@
+[
+    {
+        "Id": 437683,
+        "Name": "?Charity Fund ?Kharkiv Renovation??",
+        "Nickname": null,
+        "FieldsOfInterest": "Aid and Development",
+        "TaxId": null,
+        "FullAddress": "Kulikovsky descent 7/9, apt. 10 Kharkiv, 61004 UKRAINE",
+        "DetailsDispatch": "byorganization_id$437683_hash$2b83497a7afd1c5977217de456503f67344d3020",
+        "DagDispatch": "dag_id$437683_hash$f0f4a951c4e1a907f1fbb032f9572a4149561c70",
+        "GrantDispatch": "newgrant_did$0_id$437683_hash$6215e2340c79e6b2c921862c7ceb4c48d0488610"
+    },
+    {
+        "Id": 11362,
+        "Name": "?Princess Alice Hospice",
+        "Nickname": null,
+        "FieldsOfInterest": "Medicine, Diseases and Disorders",
+        "TaxId": null,
+        "FullAddress": "West End Lane Esher, KT10 8NA UNITED KINGDOM",
+        "DetailsDispatch": "byorganization_id$11362_hash$8a1a3c9af49674fc6e8eabbdd39f8593374b4d59",
+        "DagDispatch": "dag_id$11362_hash$b2e0d5747f3730da48e6a842c46b9de44db72335",
+        "GrantDispatch": "newgrant_did$0_id$11362_hash$4944b43eea6df39f8eb8bc10196f980c3cb7c74e"
+    },
+    {
+        "Id": 468886,
+        "Name": "113 Suicide Prevention",
+        "Nickname": null,
+        "FieldsOfInterest": "Medicine, Diseases and Disorders",
+        "TaxId": null,
+        "FullAddress": "Paasheuvelweg 25,  AHTC Toren B5 Amsterdam, 001105 BP NETHERLANDS",
+        "DetailsDispatch": "byorganization_id$468886_hash$bfbd9650b3dcf22d7efbdd3bb3d74305de575b3d",
+        "DagDispatch": "dag_id$468886_hash$f00cd7a9c1fd32182db122f6453caceba2a4ea90",
+        "GrantDispatch": "newgrant_did$0_id$468886_hash$f49dea2373547e76bf29b61764727f60a09f0a14"
+    },
+    {
+        "Id": 12302,
+        "Name": "Hope Charity",
+        "Nickname": null,
+        "FieldsOfInterest": "Child and Youth Development, Medicine, Diseases and Disorders",
+        "TaxId": null,
+        "FullAddress": "The Hope Centre 228 Walm Lane London, NW2 3BS UNITED KINGDOM",
+        "DetailsDispatch": "byorganization_id$12302_hash$1cd7a253ea00334e611856c84352e62efed6b5d9",
+        "DagDispatch": "dag_id$12302_hash$b4253f09e3937c6abe6200aa35b07c736b34cc84",
+        "GrantDispatch": "newgrant_did$0_id$12302_hash$f20dec3316599162cc9fd38015fe705b74ab5048"
+    },
+    {
+        "Id": 11355,
+        "Name": "Horwich Breakaway Club",
+        "Nickname": null,
+        "FieldsOfInterest": "Medicine, Diseases and Disorders, Recreation and Sports",
+        "TaxId": null,
+        "FullAddress": "20 Hughes Avenue Horwich Bolton, BL6 7RA UNITED KINGDOM",
+        "DetailsDispatch": "byorganization_id$11355_hash$5775566522b4b9b97e31e0b9e3f920c0a94d7c1b",
+        "DagDispatch": "dag_id$11355_hash$7cf623ed686fdcb71de25ca3fc5df99d3dd5d080",
+        "GrantDispatch": "newgrant_did$0_id$11355_hash$0d89663df65764157891fe3738fef1d16960d2b1"
+    }
+]

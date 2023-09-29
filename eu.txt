@@ -1,0 +1,471 @@
+33165
+'NoneType' object has no attribute 'find_all'
+356566
+'NoneType' object has no attribute 'find_all'
+112134
+'NoneType' object has no attribute 'find_all'
+12260
+'NoneType' object has no attribute 'find_all'
+30902
+'NoneType' object has no attribute 'find_all'
+275271
+'NoneType' object has no attribute 'find_all'
+173477
+'NoneType' object has no attribute 'find_all'
+11660
+'NoneType' object has no attribute 'find_all'
+202795
+'NoneType' object has no attribute 'find_all'
+11089
+'NoneType' object has no attribute 'find_all'
+204463
+'NoneType' object has no attribute 'find_all'
+11688
+'NoneType' object has no attribute 'find_all'
+422467
+'NoneType' object has no attribute 'find_all'
+11614
+'NoneType' object has no attribute 'find_all'
+11744
+'NoneType' object has no attribute 'find_all'
+12549
+'NoneType' object has no attribute 'find_all'
+12106
+'NoneType' object has no attribute 'find_all'
+11128
+'NoneType' object has no attribute 'find_all'
+11348
+'NoneType' object has no attribute 'find_all'
+12520
+'NoneType' object has no attribute 'find_all'
+33613
+'NoneType' object has no attribute 'find_all'
+31953
+'NoneType' object has no attribute 'find_all'
+12243
+'NoneType' object has no attribute 'find_all'
+12053
+'NoneType' object has no attribute 'find_all'
+11606
+'NoneType' object has no attribute 'find_all'
+356585
+'NoneType' object has no attribute 'find_all'
+11774
+'NoneType' object has no attribute 'find_all'
+12168
+'NoneType' object has no attribute 'find_all'
+11736
+'NoneType' object has no attribute 'find_all'
+32523
+'NoneType' object has no attribute 'find_all'
+12377
+'NoneType' object has no attribute 'find_all'
+11768
+'NoneType' object has no attribute 'find_all'
+356589
+'NoneType' object has no attribute 'find_all'
+33617
+'NoneType' object has no attribute 'find_all'
+33175
+'NoneType' object has no attribute 'find_all'
+11078
+'NoneType' object has no attribute 'find_all'
+11966
+'NoneType' object has no attribute 'find_all'
+11839
+'NoneType' object has no attribute 'find_all'
+114911
+'NoneType' object has no attribute 'find_all'
+11235
+'NoneType' object has no attribute 'find_all'
+11575
+'NoneType' object has no attribute 'find_all'
+356576
+'NoneType' object has no attribute 'find_all'
+12257
+'NoneType' object has no attribute 'find_all'
+12295
+'NoneType' object has no attribute 'find_all'
+195400
+'NoneType' object has no attribute 'find_all'
+32722
+'NoneType' object has no attribute 'find_all'
+32938
+'NoneType' object has no attribute 'find_all'
+11690
+'NoneType' object has no attribute 'find_all'
+11556
+'NoneType' object has no attribute 'find_all'
+111759
+'NoneType' object has no attribute 'find_all'
+33492
+'NoneType' object has no attribute 'find_all'
+33166
+'NoneType' object has no attribute 'find_all'
+116793
+'NoneType' object has no attribute 'find_all'
+12244
+'NoneType' object has no attribute 'find_all'
+11519
+'NoneType' object has no attribute 'find_all'
+12340
+'NoneType' object has no attribute 'find_all'
+11164
+'NoneType' object has no attribute 'find_all'
+12124
+'NoneType' object has no attribute 'find_all'
+162406
+'NoneType' object has no attribute 'find_all'
+11624
+'NoneType' object has no attribute 'find_all'
+12343
+'NoneType' object has no attribute 'find_all'
+11095
+'NoneType' object has no attribute 'find_all'
+12345
+'NoneType' object has no attribute 'find_all'
+11550
+'NoneType' object has no attribute 'find_all'
+12163
+'NoneType' object has no attribute 'find_all'
+33394
+'NoneType' object has no attribute 'find_all'
+116791
+'NoneType' object has no attribute 'find_all'
+30889
+'NoneType' object has no attribute 'find_all'
+121896
+'NoneType' object has no attribute 'find_all'
+119947
+'NoneType' object has no attribute 'find_all'
+11825
+'NoneType' object has no attribute 'find_all'
+30999
+'NoneType' object has no attribute 'find_all'
+12116
+'NoneType' object has no attribute 'find_all'
+30976
+'NoneType' object has no attribute 'find_all'
+11737
+'NoneType' object has no attribute 'find_all'
+12308
+'NoneType' object has no attribute 'find_all'
+11798
+'NoneType' object has no attribute 'find_all'
+11219
+'NoneType' object has no attribute 'find_all'
+12349
+'NoneType' object has no attribute 'find_all'
+11423
+'NoneType' object has no attribute 'find_all'
+12302
+'NoneType' object has no attribute 'find_all'
+32524
+'NoneType' object has no attribute 'find_all'
+12367
+'NoneType' object has no attribute 'find_all'
+11241
+'NoneType' object has no attribute 'find_all'
+31882
+'NoneType' object has no attribute 'find_all'
+137965
+'NoneType' object has no attribute 'find_all'
+11573
+'NoneType' object has no attribute 'find_all'
+11509
+'NoneType' object has no attribute 'find_all'
+12484
+'NoneType' object has no attribute 'find_all'
+12057
+'NoneType' object has no attribute 'find_all'
+11360
+'NoneType' object has no attribute 'find_all'
+32852
+'NoneType' object has no attribute 'find_all'
+12310
+'NoneType' object has no attribute 'find_all'
+12510
+'NoneType' object has no attribute 'find_all'
+32521
+'NoneType' object has no attribute 'find_all'
+32106
+'NoneType' object has no attribute 'find_all'
+12021
+'NoneType' object has no attribute 'find_all'
+33495
+'NoneType' object has no attribute 'find_all'
+33493
+'NoneType' object has no attribute 'find_all'
+11056
+'NoneType' object has no attribute 'find_all'
+12493
+'NoneType' object has no attribute 'find_all'
+356569
+'NoneType' object has no attribute 'find_all'
+12393
+'NoneType' object has no attribute 'find_all'
+12225
+'NoneType' object has no attribute 'find_all'
+113517
+'NoneType' object has no attribute 'find_all'
+357252
+'NoneType' object has no attribute 'find_all'
+12022
+'NoneType' object has no attribute 'find_all'
+11112
+'NoneType' object has no attribute 'find_all'
+11453
+'NoneType' object has no attribute 'find_all'
+31252
+'NoneType' object has no attribute 'find_all'
+12375
+'NoneType' object has no attribute 'find_all'
+32720
+'NoneType' object has no attribute 'find_all'
+30903
+'NoneType' object has no attribute 'find_all'
+33385
+'NoneType' object has no attribute 'find_all'
+316835
+'NoneType' object has no attribute 'find_all'
+356588
+'NoneType' object has no attribute 'find_all'
+12130
+'NoneType' object has no attribute 'find_all'
+11236
+'NoneType' object has no attribute 'find_all'
+469339
+'NoneType' object has no attribute 'find_all'
+356573
+'NoneType' object has no attribute 'find_all'
+11366
+'NoneType' object has no attribute 'find_all'
+356567
+'NoneType' object has no attribute 'find_all'
+12453
+'NoneType' object has no attribute 'find_all'
+116138
+'NoneType' object has no attribute 'find_all'
+277411
+'NoneType' object has no attribute 'find_all'
+12537
+'NoneType' object has no attribute 'find_all'
+12543
+'NoneType' object has no attribute 'find_all'
+32496
+'NoneType' object has no attribute 'find_all'
+153958
+'NoneType' object has no attribute 'find_all'
+287130
+'NoneType' object has no attribute 'find_all'
+12242
+'NoneType' object has no attribute 'find_all'
+31234
+'NoneType' object has no attribute 'find_all'
+33498
+'NoneType' object has no attribute 'find_all'
+12541
+'NoneType' object has no attribute 'find_all'
+11019
+'NoneType' object has no attribute 'find_all'
+30653
+'NoneType' object has no attribute 'find_all'
+11689
+'NoneType' object has no attribute 'find_all'
+12031
+'NoneType' object has no attribute 'find_all'
+11446
+'NoneType' object has no attribute 'find_all'
+12108
+'NoneType' object has no attribute 'find_all'
+12307
+'NoneType' object has no attribute 'find_all'
+12313
+'NoneType' object has no attribute 'find_all'
+11767
+'NoneType' object has no attribute 'find_all'
+12465
+'NoneType' object has no attribute 'find_all'
+11222
+'NoneType' object has no attribute 'find_all'
+12131
+'NoneType' object has no attribute 'find_all'
+11227
+'NoneType' object has no attribute 'find_all'
+12400
+'NoneType' object has no attribute 'find_all'
+206958
+'NoneType' object has no attribute 'find_all'
+12519
+'NoneType' object has no attribute 'find_all'
+11327
+'NoneType' object has no attribute 'find_all'
+111773
+'NoneType' object has no attribute 'find_all'
+30904
+'NoneType' object has no attribute 'find_all'
+12121
+'NoneType' object has no attribute 'find_all'
+11221
+'NoneType' object has no attribute 'find_all'
+12518
+'NoneType' object has no attribute 'find_all'
+33045
+'NoneType' object has no attribute 'find_all'
+11070
+'NoneType' object has no attribute 'find_all'
+11442
+'NoneType' object has no attribute 'find_all'
+12314
+'NoneType' object has no attribute 'find_all'
+33389
+'NoneType' object has no attribute 'find_all'
+425926
+'NoneType' object has no attribute 'find_all'
+12332
+'NoneType' object has no attribute 'find_all'
+11576
+'NoneType' object has no attribute 'find_all'
+33159
+'NoneType' object has no attribute 'find_all'
+11997
+'NoneType' object has no attribute 'find_all'
+12105
+'NoneType' object has no attribute 'find_all'
+11417
+'NoneType' object has no attribute 'find_all'
+12211
+'NoneType' object has no attribute 'find_all'
+11891
+'NoneType' object has no attribute 'find_all'
+119812
+'NoneType' object has no attribute 'find_all'
+12247
+'NoneType' object has no attribute 'find_all'
+12523
+'NoneType' object has no attribute 'find_all'
+12435
+'NoneType' object has no attribute 'find_all'
+12115
+'NoneType' object has no attribute 'find_all'
+11372
+'NoneType' object has no attribute 'find_all'
+11115
+'NoneType' object has no attribute 'find_all'
+446640
+'NoneType' object has no attribute 'find_all'
+11796
+'NoneType' object has no attribute 'find_all'
+30892
+'NoneType' object has no attribute 'find_all'
+12127
+'NoneType' object has no attribute 'find_all'
+111781
+'NoneType' object has no attribute 'find_all'
+32522
+'NoneType' object has no attribute 'find_all'
+116446
+'NoneType' object has no attribute 'find_all'
+31954
+'NoneType' object has no attribute 'find_all'
+12159
+'NoneType' object has no attribute 'find_all'
+11443
+'NoneType' object has no attribute 'find_all'
+11425
+'NoneType' object has no attribute 'find_all'
+12279
+'NoneType' object has no attribute 'find_all'
+202115
+'NoneType' object has no attribute 'find_all'
+271916
+'NoneType' object has no attribute 'find_all'
+12421
+'NoneType' object has no attribute 'find_all'
+11910
+'NoneType' object has no attribute 'find_all'
+11830
+'NoneType' object has no attribute 'find_all'
+12142
+'NoneType' object has no attribute 'find_all'
+12390
+'NoneType' object has no attribute 'find_all'
+31879
+'NoneType' object has no attribute 'find_all'
+12107
+'NoneType' object has no attribute 'find_all'
+32020
+'NoneType' object has no attribute 'find_all'
+414631
+'NoneType' object has no attribute 'find_all'
+12285
+'NoneType' object has no attribute 'find_all'
+33615
+'NoneType' object has no attribute 'find_all'
+271312
+'NoneType' object has no attribute 'find_all'
+12238
+'NoneType' object has no attribute 'find_all'
+33404
+'NoneType' object has no attribute 'find_all'
+33388
+'NoneType' object has no attribute 'find_all'
+185073
+'NoneType' object has no attribute 'find_all'
+470840
+'NoneType' object has no attribute 'find_all'
+11299
+'NoneType' object has no attribute 'find_all'
+12248
+'NoneType' object has no attribute 'find_all'
+31240
+'NoneType' object has no attribute 'find_all'
+127510
+'NoneType' object has no attribute 'find_all'
+11006
+'NoneType' object has no attribute 'find_all'
+410080
+'NoneType' object has no attribute 'find_all'
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
+Failed to connect after 3 retries.
